@@ -1,5 +1,5 @@
 # EnderKingJ
-## "coding" if you could call it that
+## I code things yeah
 ``
-working on amoga, some other trash in here.
+[Ludicrous](https://github.com/ludicrousdevelopment/ludicrousofficial), [Eternity Site](https://eternitydc.xyz)
 ``
