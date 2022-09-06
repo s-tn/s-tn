@@ -1,7 +1,6 @@
-# EnderKingJ
-## I code things yeah, what else?
+## Ender (EnderKingJ)
 
-# Some of my Projects
-[Ludicrous](https://github.com/ludicrousdevelopment/ludicrousofficial), [Eternity Site](https://eternitydc.xyz), [Iboss Block Page Generator](https://ludicrous.gq/pages/iboss.html)
+### full stack web developer
 
-Have a wonderful day!
+### Projects
+[Ludicrous](https://github.com/ludicrousdevelopment/ludi), [TitaniumNetwork](https://github.com/titaniumnetwork-development), [Illusive](https://github.com/illusive-dev), [Dynamic/DIP](https://github.com/dynamic-interception-proxy)
