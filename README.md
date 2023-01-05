@@ -1,6 +1,6 @@
-## Ender (EnderKingJ)
+## Sylvie
 
-### full stack web developer
+### full stack web developer (real)
 
 ### Projects
-[Ludicrous](https://github.com/ludicrousdevelopment/ludi), [TitaniumNetwork](https://github.com/titaniumnetwork-development), [Illusive](https://github.com/illusive-dev), [Dynamic/DIP](https://github.com/dynamic-interception-proxy)
+[Ludicrous](https://github.com/titaniumnetwork-dev/ludicrous), [TitaniumNetwork](https://github.com/titaniumnetwork-dev), [Illusive](https://github.com/illusive-dev), [Dynamic/DIP](https://github.com/dynamic-interception-proxy)
